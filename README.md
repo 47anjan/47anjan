@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 I’m also interested in [DevOps](DevOps)
+- 👨‍💻 I’m also interested in [Django](Django)
 
 - 💬 Ask me about **CSS**
 
