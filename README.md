@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 I’m also interested in **Django**
+- 👨‍💻 I’m also interested in **Next.js**
 
 - 💬 Ask me about **CSS**
 
