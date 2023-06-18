@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anjan Karmakar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 I’m also interested in [Django](Django)
+- 👨‍💻 I’m also interested in **Django**
 
 - 💬 Ask me about **CSS**
 
