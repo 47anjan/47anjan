@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anjan Karmakar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 I’m also interested in **Next.js**
+- 👨‍💻 I’m also interested in **Android Development**
 
 - 💬 Ask me about **CSS**
 
