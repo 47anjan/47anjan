@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 I’m also interested in **Android Development**
+- 👨‍💻 I’m also interested in **Microfrontend**
 
 - 💬 Ask me about **CSS**
 
