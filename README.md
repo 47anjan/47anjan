@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 I’m also interested in **Progressive Web Apps**
+- 👨‍💻 I’m also interested in **Django**
 
 - 💬 Ask me about **CSS**
 
