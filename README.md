@@ -39,10 +39,6 @@
 
 
 
-## Live and breathe GitHub 
-[![Yangshun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjankarmakar10&show_icons=true&icon_color=fff&text_color=fff&bg_color=151515&line_height=30&hide_title=true&title_color=fb8c00)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 
 
 ## LeetCode for Anjan! ([profile](https://leetcode.com/anjankarmakar))
