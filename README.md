@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Anjan Karmakar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Typescript, Testing**
+- 🌱 I’m currently learning **TypeScript, Testing**
 
 - 👨‍💻 I’m also interested in **Django**
 
