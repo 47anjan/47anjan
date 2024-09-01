@@ -2,22 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anjan Karmakar</h1>
-<h3 align="center">A passionate
-	
-
-
-    
-
-
-	
-
-			
-
-				
-
-	
-
-	 frontend developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **TypeScript, Testing**
 
@@ -28,24 +13,7 @@
 - 📫 How to reach me **anjankarmakar15@gmail.com**
 
 
-<h3 align="left">Reach
-	
-
-
-    
-
-
-	
-
-			
-
-				
-				
-			
-
-	
-
-	 Me Out:</h3>
+<h3 align="left">Reach Me Out:</h3>
 <p align="left">  
 <a href="https://dev.to/anjankarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anjankarmakar" height="30" width="40" /></a>
 <a href="https://twitter.com/anjanstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjanstwt" height="30" width="40" /></a>
@@ -77,6 +45,3 @@
 [![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=anjankarmakar)](https://github.com/KnlnKS/leetcode-stats)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjankarmakar10&theme=github_dark" width="98%">
-
-
-
