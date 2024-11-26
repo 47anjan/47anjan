@@ -30,7 +30,7 @@
 
 
 ## LeetCode for Anjan! ([profile](https://leetcode.com/anjankarmakar))
-[![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=anjankarmakar)](https://github.com/KnlnKS/leetcode-stats)
+[![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=47anjan)](https://github.com/KnlnKS/leetcode-stats)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=47anjan&theme=github_dark" width="98%">
 
