@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m also interested in **Django**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **anjankarmakar15@gmail.com**
 
