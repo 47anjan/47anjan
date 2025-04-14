@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Problem Solving**
 
-- 👨‍💻 I’m also interested in **Java**
+- 👨‍💻 I’m also interested in **Backend**
 
 - 💬 Ask me about **Frontend**
 
