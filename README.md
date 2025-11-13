@@ -1,39 +1,41 @@
-<img src="/hero.png"/>
+I'm Anjan, a front-end developer who enjoys making beautiful designs come to life online.
 
 
-<h1 align="center">Hi 👋, I'm Anjan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+Despite not being a designer, I've always had a keen sense of style.  
+I like creating **simple, contemporary landing pages**, and I love **recreating it** to learn how a beautiful website was put together.
 
-- 🌱 I’m currently learning **Problem Solving**
-
-- 👨‍💻 I’m also interested in **Backend**
-
-- 💬 Ask me about **Frontend**
-
-- 📫 How to reach me **anjankarmakar15@gmail.com**
+I prefer to concentrate on the **core of frontend**, where **design, layout, and interactivity** blend together harmoniously, rather than getting too caught up in intricate JavaScript logic.
 
 
+### 🧠 Languages & Tools
 
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
- ##
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=47anjan&show_icons=true&theme=dark&locale=en&layout=compact" alt="47anjan" /></p>
-
-
-
-
-
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=47anjan&theme=github_dark" width="98%">
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=47anjan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=47anjan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=47anjan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=47anjan&theme=github_dark" width="98%" alt="Profile Summary" />
+</p>
+
+---
+
+itsvg.in/api?id=47anjan&icon=0&color=0)](https://visitcount.itsvg.in)
