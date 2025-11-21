@@ -32,9 +32,7 @@ I prefer to concentrate on the **core of frontend**, where **design, layout, and
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=47anjan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=47anjan&theme=github_dark" width="98%" alt="Profile Summary" />
-</p>
+
 
 ---
 
