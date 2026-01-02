@@ -26,14 +26,4 @@ I prefer to concentrate on the **core of frontend**, where **design, layout, and
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=47anjan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-
-
----
-
 
