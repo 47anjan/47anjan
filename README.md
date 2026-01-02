@@ -1,8 +1,8 @@
-I'm Anjan, a front-end developer who enjoys making beautiful designs come to life online.
+I'm Anjan, a front-end developer who enjoys making beautiful designs come to life.
 
 
 Despite not being a designer, I've always had a keen sense of style.  
-I like creating **simple, contemporary landing pages**, and I love **recreating it** to learn how a beautiful website was put together.
+I like creating **simple, contemporary landing pages**, and I love **recreating them** to learn how a beautiful website was put together.
 
 I prefer to concentrate on the **core of frontend**, where **design, layout, and interactivity** blend together harmoniously, rather than getting too caught up in intricate JavaScript logic.
 
